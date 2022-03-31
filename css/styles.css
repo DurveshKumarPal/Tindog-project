@@ -1,0 +1,135 @@
+#title{
+    background-color: #e0a7a7;
+    padding-bottom: 5%;
+    padding-top: 0%;
+}
+
+.navbar{
+    padding: 0 0 2.5rem;
+}
+.nav-brand{
+    font-family: "Ubuntu";
+    font-size: 5rem;
+    font-weight: bold;;
+}
+.nav-item{
+    padding: 0 8px;;
+}
+.nav-link{
+    font-size: 1.2rem;
+    font-family: "Montserrat-Light";
+}
+.downlode-button{
+    margin: 5% 3% 5% 0;
+}
+.pricephara{
+    text-align: center;
+}
+.big-hadding{
+    font-family: "Montserrat";
+    size: 3rem;
+    line-height: 1.5;
+
+}
+h1{
+font-family: "Montserrat";
+size: 3rem;
+}
+h2{
+    line-height: 1.5rem;
+    text-align: center;
+    font-family: "Montserrat-Bold";
+    font-size: 3.5rem;
+}
+h3{
+    font-family: "Montserrat-Bold";
+    line-height: 1.5rem;
+    text-decoration-color: aliceblue;
+}
+#main-heading {
+    font-size: 3.5rem;
+    line-height: 1.4;
+}
+.container-fluid{
+    padding: 3% 15%;
+}
+button{
+    padding: 0.5rem 1rem;
+    font-size: 1.2rem;
+    border-radius: 0.3rem;
+    align-items: center;
+}
+#features{
+    padding:7% 15% ;
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    z-index: 1;
+}
+.iphone-image{
+    
+    width: 35%;
+    height: 100vh;
+    position: absolute;
+    z-index: 1;
+    
+}
+.feature-box{
+    text-align: center;
+}
+p{
+    color: #8f8f8f;
+}
+.icon{
+    color: rgb(128, 255, 0);
+}
+
+#testimonials{
+    text-align: center;
+    padding: 4% 15%;
+    position: relative;
+    z-index: 1;
+    background-color: #eb6262
+    
+    
+}
+#press{
+    text-align: center;
+    padding-bottom: 3%;
+    background-color: #eb6262
+  
+}
+.testimonial-image{
+border-radius: 100%;
+}
+.presslogo{
+width: 15%;
+}
+.name{
+    text-align: center
+}
+
+.dog-profile
+{
+
+}
+#pricing{
+    padding: 100px;
+}
+.price-text{
+font-size: 3rem;
+line-height: 1.5;
+}
+.price-column{
+    padding: 3% 2%;
+}
+button{
+    padding: auto ;
+}
+footer{
+    text-align:left;
+    background-color: rgb(245, 245, 245);
+    padding-bottom: 3.5%;
+}
+#cta{
+    text-align: center;
+}
